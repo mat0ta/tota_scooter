@@ -5,4 +5,4 @@
 
 ## Thanks for dowloading it!
 
-## Suport and more free scripts in: https://discord.gg/9tspPPHEfM
+## Support and more free scripts in: https://discord.gg/9tspPPHEfM
