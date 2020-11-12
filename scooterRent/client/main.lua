@@ -30,7 +30,7 @@ Citizen.CreateThread(function()
     Vehicles = vehicles
     end)
   
-    ESX.TriggerServerCallback('esx_tvehicleshop:getVehicles', function (vehicles)
+	ESX.TriggerServerCallback('esx_vehicleshop:getVehicles', function(vehicles)
     Vehicles = vehicles
     end)
   
