@@ -1,4 +1,5 @@
 fx_version 'cerulean'
+game 'gta5'
 
 author 'MCNMATOTA#2277'
 description 'tota_scooter'
