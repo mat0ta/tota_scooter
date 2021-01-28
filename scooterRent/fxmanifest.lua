@@ -1,11 +1,11 @@
 fx_version 'cerulean'
 
 author 'MCNMATOTA#2277'
-description 'tota_cooter'
+description 'tota_scooter'
 version '1.0.0'
 
 client_scripts {
-	"config.lua",
+    "config.lua",
     "client/main.lua"
 }
 
